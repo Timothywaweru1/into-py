@@ -5,8 +5,8 @@ name = "pypi"
 
 [packages]
 flask = "3.0.3"
-flask-sqlalchemy = "*"
 flask-migrate = "*"
+flask-sqlalchemy = "*"
 
 [requires]
 python_full_version = "3.8.13"
